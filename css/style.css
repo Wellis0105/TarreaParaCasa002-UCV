@@ -1,0 +1,67 @@
+body{
+    background: #c8eced;
+}
+
+h1{
+    text-decoration: underline;
+    color: #000aff;
+    text-align: center;
+
+}
+h2{
+     text-align: center;
+}
+input:hover{
+   font-weight: bold;
+    border-bottom-color: black;
+    text-transform:uppercase;
+    border-radius: 7px;
+
+}
+form input:hover{
+    background: #c8eced;
+}
+
+input{
+    border-radius: 7px;
+    border-color: #480f48;
+
+}
+.frm{
+    text-align: center;
+    background: white;
+    margin-left: 50px;
+    margin-bottom: auto;
+    margin-right:50px;
+    margin-top: auto;
+}
+#tres{
+    text-align:     center;
+     background: #81e3a3;
+    margin-left: 50px;
+    margin-bottom: auto;
+    margin-right:50px;
+    margin-top: auto;
+}
+#error1{
+     text-align: center;
+    background: #f0df59;
+    color: black;
+    font-weight: bold;
+}
+#error2{
+    text-align: center;
+    background: #b92727;
+    color: black;
+    font-weight: bold;
+}
+
+#one{
+    text-align: center;
+}
+
+#uno{
+    text-align: center;
+}
+
+
